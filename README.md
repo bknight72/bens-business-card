@@ -1,6 +1,6 @@
 ## Mi Card
 
-Ben's Business Mi Card which I completed as part of a udemy course in which I am taught and learn Flutter
+Ben's Business Mi Card which I completed as part of a udemy course in which I am taught and learn Flutter. it says flutter developer which I think is a little ambitious for what I am right now but hopefully by the end of the course it is more appropriate. 
 
 ## Final Result
 
